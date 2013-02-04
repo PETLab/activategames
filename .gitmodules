@@ -94,3 +94,12 @@
 [submodule "sites/all/libraries/superfish"]
 	path = sites/all/libraries/superfish
 	url = git://github.com/mehrpadin/Superfish-for-Drupal.git
+[submodule "sites/all/modules/flexslider"]
+	path = sites/all/modules/flexslider
+	url = git://git.drupal.org/project/flexslider.git
+[submodule "sites/all/modules/views_slideshow"]
+	path = sites/all/modules/views_slideshow
+	url = git://git.drupal.org/project/views_slideshow.git
+[submodule "sites/all/libraries/flexslider"]
+	path = sites/all/libraries/flexslider
+	url = git://github.com/woothemes/FlexSlider.git
