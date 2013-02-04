@@ -103,3 +103,9 @@
 [submodule "sites/all/libraries/flexslider"]
 	path = sites/all/libraries/flexslider
 	url = git://github.com/woothemes/FlexSlider.git
+[submodule "sites/all/modules/views_infinite_scroll"]
+	path = sites/all/modules/views_infinite_scroll
+	url = git://git.drupal.org/project/views_infinite_scroll.git
+[submodule "sites/all/libraries/autopager"]
+	path = sites/all/libraries/autopager
+	url = git@github.com:PETLab/autopager.git
