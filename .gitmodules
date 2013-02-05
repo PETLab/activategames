@@ -109,3 +109,6 @@
 [submodule "sites/all/libraries/autopager"]
 	path = sites/all/libraries/autopager
 	url = git@github.com:PETLab/autopager.git
+[submodule "sites/all/modules/activate_module"]
+	path = sites/all/modules/activate_module
+	url = git@github.com:PETLab/activate_module.git
