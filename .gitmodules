@@ -112,3 +112,6 @@
 [submodule "sites/all/modules/activate_module"]
 	path = sites/all/modules/activate_module
 	url = git@github.com:PETLab/activate_module.git
+[submodule "sites/all/modules/quicktabs"]
+	path = sites/all/modules/quicktabs
+	url = git://git.drupal.org/project/quicktabs.git
