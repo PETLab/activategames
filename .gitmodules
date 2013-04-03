@@ -115,3 +115,6 @@
 [submodule "sites/all/modules/quicktabs"]
 	path = sites/all/modules/quicktabs
 	url = git://git.drupal.org/project/quicktabs.git
+[submodule "sites/all/modules/beautytips"]
+	path = sites/all/modules/beautytips
+	url = git://git.drupal.org/project/beautytips.git
