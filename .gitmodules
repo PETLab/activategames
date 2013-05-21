@@ -118,3 +118,12 @@
 [submodule "sites/all/modules/beautytips"]
 	path = sites/all/modules/beautytips
 	url = git://git.drupal.org/project/beautytips.git
+[submodule "sites/all/modules/rules"]
+	path = sites/all/modules/rules
+	url = git://git.drupal.org/project/rules.git
+[submodule "sites/all/modules/date"]
+	path = sites/all/modules/date
+	url = git://git.drupal.org/project/date.git
+[submodule "sites/all/modules/menu_token"]
+	path = sites/all/modules/menu_token
+	url = git://git.drupal.org/project/menu_token.git
