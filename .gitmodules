@@ -31,9 +31,6 @@
 [submodule "sites/all/modules/fivestar"]
 	path = sites/all/modules/fivestar
 	url = git://git.drupal.org/project/fivestar.git
-[submodule "sites/all/modules/google_fonts"]
-	path = sites/all/modules/google_fonts
-	url = git://git.drupal.org/project/google_fonts.git
 [submodule "sites/all/modules/i18n"]
 	path = sites/all/modules/i18n
 	url = git://git.drupal.org/project/i18n.git
