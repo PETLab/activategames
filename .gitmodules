@@ -124,3 +124,6 @@
 [submodule "sites/all/modules/menu_token"]
 	path = sites/all/modules/menu_token
 	url = git://git.drupal.org/project/menu_token.git
+[submodule "sites/all/modules/fontyourface"]
+	path = sites/all/modules/fontyourface
+	url = git://git.drupal.org/project/fontyourface.git
