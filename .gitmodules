@@ -127,3 +127,6 @@
 [submodule "sites/all/modules/fontyourface"]
 	path = sites/all/modules/fontyourface
 	url = git://git.drupal.org/project/fontyourface.git
+[submodule "sites/all/modules/special_menu_items"]
+	path = sites/all/modules/special_menu_items
+	url = git://git.drupal.org/project/special_menu_items.git
