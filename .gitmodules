@@ -76,9 +76,6 @@
 [submodule "sites/all/modules/wysiwyg"]
 	path = sites/all/modules/wysiwyg
 	url = git://git.drupal.org/project/wysiwyg.git
-[submodule "sites/all/modules/ctools"]
-	path = sites/all/modules/ctools
-	url = http://git.drupal.org/project/ctools.git
 [submodule "sites/all/themes/omega"]
 	path = sites/all/themes/omega
 	url = git://git.drupal.org/project/omega.git
