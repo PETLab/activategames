@@ -127,3 +127,6 @@
 [submodule "sites/all/modules/special_menu_items"]
 	path = sites/all/modules/special_menu_items
 	url = git://git.drupal.org/project/special_menu_items.git
+[submodule "sites/all/modules/ctools"]
+	path = sites/all/modules/ctools
+	url = git://git.drupal.org/project/ctools.git
